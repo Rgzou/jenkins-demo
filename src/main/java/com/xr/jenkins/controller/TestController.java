@@ -12,6 +12,6 @@ public class TestController {
 
     @GetMapping("/test")
     public  String test(){
-        return  "你好，我是小荣呀,嘿嘿";
+        return  "我知道你还是爱着我，虽然分开的理由，我们都已接受。";
     }
 }
